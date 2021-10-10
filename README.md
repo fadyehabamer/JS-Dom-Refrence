@@ -1,2 +1,2 @@
 # JS Dom Refrence
- open any text editor to see the idea
+> open any text editor to see the reference
